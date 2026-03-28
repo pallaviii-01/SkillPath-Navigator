@@ -345,7 +345,6 @@ For issues and questions:
 
 ### Roadmap
 
-- [ ] Mobile app (Flutter)
 - [ ] Offline mode support
 - [ ] Advanced analytics dashboard
 - [ ] Integration with training providers
@@ -355,4 +354,4 @@ For issues and questions:
 
 ---
 
-**Built with ❤️ for India's skilling ecosystem**
+**Pallavi Patil**
