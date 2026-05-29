@@ -2,10 +2,6 @@
 
 ## AI-Powered Personalized Learning Path Generator for NCVET
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
-[![Node 18+](https://img.shields.io/badge/node-18+-green.svg)](https://nodejs.org/)
-
 ### Overview
 
 SkillPath Navigator is an AI-driven platform that provides personalized vocational training pathways aligned with India's National Skills Qualifications Framework (NSQF). It helps learners discover the right courses based on their background, skills, and career aspirations while considering real-time labor market demands.
